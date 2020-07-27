@@ -1,0 +1,1 @@
+This is just a proposal of how we can structure lessons/lectures to make them "self contained" and add them to the videos in the platform
